@@ -13,6 +13,7 @@
 		A7D693E725FE0AEF0023C209 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7D693E525FE0AEF0023C209 /* Main.storyboard */; };
 		A7D693E925FE0AF00023C209 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7D693E825FE0AF00023C209 /* Assets.xcassets */; };
 		A7D693EC25FE0AF00023C209 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7D693EA25FE0AF00023C209 /* LaunchScreen.storyboard */; };
+		A7D693F425FE0DDE0023C209 /* SF-Pro-Display-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = A7D693F325FE0DDE0023C209 /* SF-Pro-Display-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A7D693E825FE0AF00023C209 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7D693EB25FE0AF00023C209 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7D693ED25FE0AF00023C209 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7D693F325FE0DDE0023C209 /* SF-Pro-Display-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Display-Regular.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				A7D693DF25FE0AEF0023C209 /* AppDelegate.swift */,
+				A7D693F325FE0DDE0023C209 /* SF-Pro-Display-Regular.otf */,
 				A7D693E125FE0AEF0023C209 /* SceneDelegate.swift */,
 				A7D693E325FE0AEF0023C209 /* ViewController.swift */,
 				A7D693E525FE0AEF0023C209 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 			files = (
 				A7D693EC25FE0AF00023C209 /* LaunchScreen.storyboard in Resources */,
 				A7D693E925FE0AF00023C209 /* Assets.xcassets in Resources */,
+				A7D693F425FE0DDE0023C209 /* SF-Pro-Display-Regular.otf in Resources */,
 				A7D693E725FE0AEF0023C209 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
